@@ -14,3 +14,5 @@ Python 3.5.2 :: Anaconda 4.1.1 (x86_64)
 ```pip install -U spacy```
 
 The U flag stands for upgrade to the latest.
+
+"Building wheel for Spacy" will require a lot of time to run
