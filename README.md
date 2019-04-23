@@ -3,6 +3,8 @@
 
 Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
+```python helloworld.py```
+
 ## Ensure that you are on Python 3
 
 ```python --version```
