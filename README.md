@@ -9,7 +9,13 @@ My system returns, for example:
 
 Python 3.5.2 :: Anaconda 4.1.1 (x86_64)
 
-## Install Spacy with PIP
+## Install Spacy with PIP and PipEnv
+
+```pip install --user pipenv```
+
+Create Python Virtual Environment
+
+```pyvenv --without-pip /var/www/python/spacy```
 
 ```pip install -U --user spacy```
 
@@ -18,3 +24,7 @@ The U flag stands for upgrade to the latest.
 User flag is needed for permissions.
 
 "Building wheel for Spacy" will require a lot of time to run
+
+### References
+
+https://spacy.io/usage
