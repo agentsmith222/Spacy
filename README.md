@@ -17,12 +17,6 @@ Python 3.5.2 :: Anaconda 4.1.1 (x86_64)
 
 ## Install Spacy
 
-```pip install --user pipenv```
-
-Create Python Virtual Environment
-
-```pyvenv --without-pip /var/www/python/spacy```
-
 ```pip install -U --user spacy```
 
 The U flag stands for upgrade to the latest.
