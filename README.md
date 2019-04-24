@@ -9,13 +9,11 @@ Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
 ### Dislike
 
-### "Like you're someone trying to get free labor"
-
-Like ADP intj
+### "you are someone trying to get free labor"
 
 you PRON nsubj
 
-'re VERB ROOT
+are VERB ROOT
 
 someone NOUN attr
 
