@@ -9,7 +9,7 @@ Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
 Dislike
 
-Like you're someone trying to get free labor
+"Like you're someone trying to get free labor"
 
 Like ADP intj
 you PRON nsubj
@@ -23,7 +23,7 @@ labor NOUN dobj
 
 Like
 
-That's a really good project
+"That's a really good project"
 
 ## Ensure that you are on Python 3
 
