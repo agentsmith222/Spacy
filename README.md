@@ -5,7 +5,43 @@ Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
 ```python helloworld.py```
 
-## We will use basic parts of speech to build patterns of language that we can categorize as positive or negative
+## Parse sentences and identify patterns that you like and dislike
+
+### Dislike
+
+### "you are someone trying to get free labor"
+
+you PRON nsubj
+
+are VERB ROOT
+
+someone NOUN attr
+
+trying VERB acl
+
+to PART aux
+
+get VERB xcomp
+
+free ADJ amod
+
+labor NOUN dobj
+
+### Like
+
+### "That's a really nice Github"
+
+That DET nsubj
+
+is VERB ROOT
+
+a DET det
+
+really ADV advmod
+
+nice ADJ amod
+
+Github PROPN attr
 
 ## Ensure that you are on Python 3
 
