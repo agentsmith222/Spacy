@@ -12,18 +12,38 @@ Dislike
 "Like you're someone trying to get free labor"
 
 Like ADP intj
+
 you PRON nsubj
+
 're VERB ROOT
+
 someone NOUN attr
+
 trying VERB acl
+
 to PART aux
+
 get VERB xcomp
+
 free ADJ amod
+
 labor NOUN dobj
 
 Like
 
-"That's a really good project"
+"That's a really nice Github"
+
+That DET nsubj
+
+is VERB ROOT
+
+a DET det
+
+really ADV advmod
+
+nice ADJ amod
+
+Github PROPN attr
 
 ## Ensure that you are on Python 3
 
