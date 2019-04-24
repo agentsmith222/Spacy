@@ -5,7 +5,7 @@ Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
 ```python helloworld.py```
 
-## The advanced part of this tutorial will setup a Naive Bayes supervised learning system to filter out SPAM like text
+## We will use basic parts of speech to build patterns of language that we can categorize as positive or negative
 
 ## Ensure that you are on Python 3
 
