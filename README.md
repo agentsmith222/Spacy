@@ -7,9 +7,9 @@ Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
 
 ## Parse sentences and identify patterns that you like and dislike
 
-Dislike
+### Dislike
 
-"Like you're someone trying to get free labor"
+### "Like you're someone trying to get free labor"
 
 Like ADP intj
 
@@ -29,9 +29,9 @@ free ADJ amod
 
 labor NOUN dobj
 
-Like
+### Like
 
-"That's a really nice Github"
+### "That's a really nice Github"
 
 That DET nsubj
 
