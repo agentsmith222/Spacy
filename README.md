@@ -1,49 +1,6 @@
-# Spacy on Python 3
-## hello spacy world
+# Spacy on Python 3.5.2
 
-Tutorial to Setup Python 3's Spacy for Machine Learning Natural Language
-
-```python helloworld.py```
-
-## Parse sentences and identify patterns that you like and dislike
-
-### Dislike
-
-### "you are someone trying to get free labor"
-
-you PRON nsubj
-
-are VERB ROOT
-
-someone NOUN attr
-
-trying VERB acl
-
-to PART aux
-
-get VERB xcomp
-
-free ADJ amod
-
-labor NOUN dobj
-
-### Like
-
-### "That's a really nice Github"
-
-That DET nsubj
-
-is VERB ROOT
-
-a DET det
-
-really ADV advmod
-
-nice ADJ amod
-
-Github PROPN attr
-
-## Ensure that you are on Python 3
+## Ensure that you are on Python > 3.5
 
 ```python --version```
 
@@ -61,10 +18,44 @@ User flag is needed for permissions.
 
 "Building wheel for Spacy" will require a lot of time to run
 
+## Install Spacy (Full Directions)
+
+https://spacy.io/usage
+
 ## Install Spacy Module for the Hello World Script
 
 ```python -m spacy download en_core_web_sm```
 
+## hello spacy world
+
+Tutorial to Setup Spacy on Python 3.5.2 for Parsing Parts of Speech of Text
+
+## Run The Program
+
+```python helloworld.py```
+
+## Parse sentences and identify patterns that you like
+
+### "That's a really nice Github"
+
+That DET nsubj
+
+is VERB ROOT
+
+a DET det
+
+really ADV advmod
+
+nice ADJ amod
+
+Github PROPN attr
+
+### Pattern
+
+DET nsubj, VERB ROOT, DET det, ADV advmod, ADJ amod, PROPN attr
+
 ### References
 
 https://spacy.io/usage
+
+
